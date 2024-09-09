@@ -58,5 +58,6 @@ Adapte a lógica em fetchCryptocurrencyData() para integrar outras APIs ou dados
 🌟 Demonstração do Visual
 =
 
+https://github.com/user-attachments/assets/0749adb0-a62e-402b-8f86-3205678468f7
 
 Se tiver dúvidas ou sugestões, entre em contato comigo pelo LinkedIn.
