@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/reediury/
 📦 Arquivos
 =
 
-CRYPTO_PRICES.html: Arquivo HTML com o exemplo completo de visualização de criptomoedas.
+CRYPTO_HTML.pbix: Exemplo de relatório Power BI.
 
 README.md: Este arquivo de documentação.
 
@@ -24,7 +24,7 @@ Para usar este visual no Power BI, é necessário um visual que suporte HTML. Re
 
 Arquivo de Exemplo:
 
-O arquivo CRYPTO_PRICES.html contém o exemplo completo de como os preços das criptomoedas são exibidos. Você pode integrar este código HTML diretamente em um visual HTML dentro do seu relatório Power BI.
+O arquivo CRYPTO_HTML.pbix contém o exemplo completo de como os preços das criptomoedas são exibidos.
 
 Variáveis Principais:
 =
